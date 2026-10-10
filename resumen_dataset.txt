@@ -1,0 +1,14 @@
+RESUMEN DEL DATASET TRANSFORMADO
+====================================
+
+Este archivo se genera automáticamente al ejecutar todas las celdas de actividad_s10.ipynb.
+
+Estado: pendiente de ejecución en el entorno de Python del estudiante.
+El archivo final incluirá:
+- cantidad de filas y columnas;
+- nombres de las columnas;
+- tipos de datos;
+- valores nulos por columna;
+- estadísticas descriptivas del DataFrame transformado.
+
+Para producir el resumen definitivo, ejecuta el notebook completo. El archivo será sobrescrito con los resultados reales del dataset descargado desde Hugging Face.
